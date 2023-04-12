@@ -8,7 +8,7 @@
 Major Technologies:
    - Back-end: C#, ASP.NET Core (MVC and Web API), Razor, Entity Framework and Java.
    - Front-end: HTML, CSS, Bootstrap, JavaScript, jQuery, TypeScript and Angular.
-   - Database and Others: SQL Server, PostgreSQL, MongoDB and Docker.
+   - Database and Others: SQL Server, PostgreSQL, MongoDB and Docker and I am currently starting to learn AWS Cloud.
 
 <!---
 kauankvs/kauankvs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

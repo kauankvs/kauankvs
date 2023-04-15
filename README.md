@@ -3,7 +3,7 @@
 - 🌊 Hi, I am Kauan Vieira, a computer science student from Brazil's litoral, on the path of studying/practicing web development.
 - 💻 I started learning Java, the fundamentals of programming and OOP, and then Spring Framework for developing API's.
 - 🧑‍💻 Now I am focus on full-stack web development, using ASP.NET Core (C#) and Angular (TypeScript) and SQl Server and MongoDB.
-- 🌱 Always learning, now deepening my knowlegde on MongoDB and Docker and looking forward to study others technologies.
+- 🌱 Always learning, now deepening my knowlegde on containers with Docker and advanced databases topics and starting the study of Cloud Computing with AWS.
 
 Major Technologies:
    - Back-end: C#, ASP.NET Core (MVC and Web API), Razor, Entity Framework and Java.
